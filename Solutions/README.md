@@ -7,4 +7,4 @@
 5. [Permutations](https://github.com/bhumikatewary/Practice-Problems/blob/e832f718a2730595d525e34ea13f306d2a34260a/CSES/Permutations.cpp)
 6. [Two Knights](https://github.com/bhumikatewary/Practice-Problems/blob/e832f718a2730595d525e34ea13f306d2a34260a/CSES/Two%20Knights.cpp)
 7. [Bit Strings](https://github.com/bhumikatewary/Practice-Problems/blob/eb043c5b83ba6e453e3dacaf91e38682306b2f60/CSES/Bit%20Strings.cpp)
-8. 
+8. [Trailing Zeros](https://github.com/bhumikatewary/Practice-Problems/blob/87f9460ab1cb727f0be8cad182c78d0d1a5c5b0a/CSES/Trailing%20Zeros.cpp)
