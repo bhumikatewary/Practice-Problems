@@ -4,4 +4,5 @@
 2. [Missing Number](https://github.com/bhumikatewary/Practice-Problems/blob/1bb88cebb6fe14dd7e5d493177ebdf9cdedfaa37/CSES/Missing%20Number.cpp)
 3. [Repetitions](https://github.com/bhumikatewary/Practice-Problems/blob/ebc373bc3b1ed22609bac25d9b886b3c21f2a73f/CSES/Repetitions.cpp)
 4. [Increasing Array](https://github.com/bhumikatewary/Practice-Problems/blob/db8827696f723e8990f68fb6a041c358ac5663c5/CSES/Increasing%20Array.cpp)
-5. 
+5. [Permutations](https://github.com/bhumikatewary/Practice-Problems/blob/e832f718a2730595d525e34ea13f306d2a34260a/CSES/Permutations.cpp)
+6. [Two Knights](https://github.com/bhumikatewary/Practice-Problems/blob/e832f718a2730595d525e34ea13f306d2a34260a/CSES/Two%20Knights.cpp)
