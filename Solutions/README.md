@@ -10,3 +10,6 @@
 8. [Trailing Zeros](https://github.com/bhumikatewary/Practice-Problems/blob/87f9460ab1cb727f0be8cad182c78d0d1a5c5b0a/CSES/Trailing%20Zeros.cpp)
 9. [Coin Piles](https://github.com/bhumikatewary/Practice-Problems/blob/d4a90f69eb5652501d141b9c47099972f84bd9db/CSES/Coin%20Piles.cpp)
 10. [Tower of Hanoi](https://github.com/bhumikatewary/Practice-Problems/blob/e9803b689c0652a6f410ea16c16d4a3b0e1197e0/CSES/Tower%20of%20Hanoi.cpp)
+
+## Sorting and Searching
+
