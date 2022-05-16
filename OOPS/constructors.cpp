@@ -11,10 +11,10 @@ class Test{
   private :
   int n;
   public:
-  Test(): n(10){
+  Test(): n(10){ //default constructor
       cout<<"Constructor is called.."<<endl;
   }
-  Test(int num){
+  Test(int num){  //parametrised constructor
       n=num;
   }
   void display(){
