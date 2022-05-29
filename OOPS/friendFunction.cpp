@@ -2,7 +2,7 @@
 
 using namespace std;
 
-class B;
+class B; //forward declaration
 class A{
     private:
     int num1;
