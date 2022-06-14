@@ -42,7 +42,6 @@ class Writer{
     public:
     void getValue();
     void display();
-    friend class Book;
 };
 
 void Writer::getValue(){
